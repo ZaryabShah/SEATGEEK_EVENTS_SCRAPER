@@ -1,0 +1,2781 @@
+{
+    "events": [
+        {
+            "access_method": null,
+            "announce_date": "2025-09-11T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-09-11T18:24:53",
+            "date_tbd": false,
+            "datetime_local": "2025-11-28T19:30:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T02:30:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T02:30:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17729330,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-28T19:30:00Z",
+            "last_valid_datetime_utc": "2025-11-29T02:30:00Z",
+            "links": [],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "Looking Over The President's Shoulder",
+                    "image": "https://seatgeekimages.com/performers-landscape/generic-theater-7e667d/677168/35973/huge.jpg",
+                    "id": 1965459,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/generic-theater-7e667d/677168/35973/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/generic-theater-7e667d/677168/35973/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 18
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "seo_event_type": "theater",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/looking-over-the-president-s-shoulder-tickets",
+                    "score": 0.33,
+                    "slug": "looking-over-the-president-s-shoulder",
+                    "home_venue_id": null,
+                    "short_name": "Looking Over The President's Shoulder",
+                    "num_upcoming_events": 18,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 2944.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/looking-over-the-president-s-shoulder-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 1965459,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6863444949,
+            "relative_url": "/looking-over-the-president-s-shoulder-1-tickets/theater/2025-11-28-7-30-pm/17729330",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3645884305,
+            "short_title": "Looking Over The President's Shoulder - Phoenix",
+            "stats": {
+                "listing_count": 1,
+                "ticket_count": 3,
+                "average_price": 68,
+                "lowest_price_good_deals": null,
+                "lowest_price": 69,
+                "highest_price": 68,
+                "visible_listing_count": 1,
+                "dq_bucket_counts": null,
+                "median_price": 68,
+                "lowest_sg_base_price": 54,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "seo_event_type": "theater",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Looking Over The President's Shoulder - Phoenix",
+            "url": "https://seatgeek.com/looking-over-the-president-s-shoulder-1-tickets/theater/2025-11-28-7-30-pm/17729330",
+            "venue": {
+                "id": 4539,
+                "name": "The Phoenix Theatre Company - Judith Hardes Theatre",
+                "name_v2": "The Phoenix Theatre Company - Judith Hardes Theatre",
+                "postal_code": "85004",
+                "timezone": "America/Phoenix",
+                "score": 0.56,
+                "popularity": 2976,
+                "address": "1825 North Central Avenue",
+                "country": "US",
+                "city": "Phoenix",
+                "state": "AZ",
+                "slug": "the-phoenix-theatre-company-judith-hardes-theatre",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [],
+                "extended_address": "Phoenix, AZ 85004",
+                "display_location": "Phoenix, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4671,
+                    "lon": -112.072
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 78,
+                "url": "https://seatgeek.com/venues/the-phoenix-theatre-company-judith-hardes-theatre/tickets",
+                "relative_url": "/venues/the-phoenix-theatre-company-judith-hardes-theatre/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 23024,
+                "venue_id": 4539,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/23024?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": null,
+                "seatingchart_url": "https://seatgeek.com/venues/the-phoenix-theatre-company-judith-hardes-theatre/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "theater",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v4539-23024-5",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-09-11T18:24:43Z",
+            "visible_until_utc": "2025-11-29T02:30:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v4539-23024-5",
+                "retina_id": "v4539-23024-5.retina"
+            },
+            "type": "theater",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-10-21T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-10-21T13:13:48",
+            "date_tbd": false,
+            "datetime_local": "2025-11-28T20:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T03:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T04:30:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17848019,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-28T20:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T03:00:00Z",
+            "links": [
+                {
+                    "id": "3422259",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Jens Lekman",
+                    "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                    "id": 10948,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concert",
+                            "parent_id": null,
+                            "seo_event_type": "concert",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "Annabel Staff / Redferns / Getty Images",
+                    "url": "https://seatgeek.com/jens-lekman-tickets",
+                    "score": 0.31,
+                    "slug": "jens-lekman",
+                    "home_venue_id": null,
+                    "short_name": "Jens Lekman",
+                    "num_upcoming_events": 5,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "genres": [
+                        {
+                            "id": 458,
+                            "name": "Indie",
+                            "slug": "indie",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                            "primary": true
+                        },
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                            "primary": false
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                            "primary": false
+                        },
+                        {
+                            "id": 457,
+                            "name": "Alternative",
+                            "slug": "alternative",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                            "primary": false
+                        },
+                        {
+                            "id": 467,
+                            "name": "Folk",
+                            "slug": "folk",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg",
+                            "primary": false
+                        }
+                    ],
+                    "popularity": 573.0,
+                    "location": null,
+                    "passes": [
+                        {
+                            "pass_type": "PARKING",
+                            "name": "Jens Lekman Parking",
+                            "url": "https://seatgeek.com/jens-lekman-tickets/parking",
+                            "relative_url": "/jens-lekman-tickets/parking",
+                            "stats": {
+                                "event_count": 1
+                            },
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/jens-lekman-cebb99/10948/huge.jpg"
+                            },
+                            "image": "https://uploads-seatgeek.global.ssl.fastly.net/passes/parking-rebrand.png",
+                            "image_attribution": "Annabel Staff / Redferns / Getty Images",
+                            "image_license": "rightsmanaged",
+                            "image_rights_message": "(c) Annabel Staff / Redferns / Getty Images"
+                        }
+                    ],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/jens-lekman-tickets",
+                    "image_rights_message": "(c) Annabel Staff / Redferns / Getty Images",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#322350"
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 10948,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6574838756,
+            "relative_url": "/jens-lekman-tickets/phoenix-arizona-crescent-ballroom-2025-11-28-8-pm/concert/17848019",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3398317279,
+            "short_title": " Jens Lekman",
+            "stats": {
+                "listing_count": 3,
+                "ticket_count": 11,
+                "average_price": 57,
+                "lowest_price_good_deals": null,
+                "lowest_price": 30,
+                "highest_price": 71,
+                "visible_listing_count": 3,
+                "dq_bucket_counts": null,
+                "median_price": 70,
+                "lowest_sg_base_price": 24,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "seo_event_type": "concert",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Jens Lekman",
+            "url": "https://seatgeek.com/jens-lekman-tickets/phoenix-arizona-crescent-ballroom-2025-11-28-8-pm/concert/17848019",
+            "venue": {
+                "id": 7698,
+                "name": "Crescent Ballroom",
+                "name_v2": "Crescent Ballroom",
+                "postal_code": "85003",
+                "timezone": "America/Phoenix",
+                "score": 0.6,
+                "popularity": 1392,
+                "address": "308 North 2nd Avenue",
+                "country": "US",
+                "city": "Phoenix",
+                "state": "AZ",
+                "slug": "crescent-ballroom",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "Crescent Ballroom Parking",
+                        "url": "https://seatgeek.com/venues/crescent-ballroom/parking",
+                        "relative_url": "/venues/crescent-ballroom/parking",
+                        "stats": {
+                            "event_count": 23
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Phoenix, AZ 85003",
+                "display_location": "Phoenix, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4518,
+                    "lon": -112.077
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 28,
+                "url": "https://seatgeek.com/venues/crescent-ballroom/tickets",
+                "relative_url": "/venues/crescent-ballroom/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 10153,
+                "venue_id": 7698,
+                "is_mapped": false,
+                "data_path": "v7698/configs/10153/1",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "concert",
+                "is_ga": true,
+                "version": null,
+                "map_config_key": "v7698-10153-1",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-10-27T10:51:47Z",
+            "visible_until_utc": "2025-11-29T04:30:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "general_admission": true,
+            "type": "concert",
+            "is_hybrid": false,
+            "show_static_map_images": false,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-07-29T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-07-29T14:23:29",
+            "date_tbd": false,
+            "datetime_local": "2025-11-28T20:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T03:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T04:30:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17646956,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "UNSET",
+            "last_valid_datetime_local": "2025-11-28T20:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T03:00:00Z",
+            "links": [
+                {
+                    "id": "3453664",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                },
+                {
+                    "id": "190062F6B73A2E61",
+                    "url": "",
+                    "provider": "ticketmaster",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "One More Time - A Tribute to Daft Punk",
+                    "image": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                    "id": 98210,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concert",
+                            "parent_id": null,
+                            "seo_event_type": "concert",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": null,
+                    "url": "https://seatgeek.com/one-more-time-a-tribute-to-daft-punk-tickets",
+                    "score": 0.31,
+                    "slug": "one-more-time-a-tribute-to-daft-punk",
+                    "home_venue_id": null,
+                    "short_name": "One More Time - A Tribute to Daft Punk",
+                    "num_upcoming_events": 3,
+                    "colors": null,
+                    "image_license": null,
+                    "genres": [
+                        {
+                            "id": 452,
+                            "name": "Pop",
+                            "slug": "pop",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                            "primary": false
+                        },
+                        {
+                            "id": 456,
+                            "name": "Rock",
+                            "slug": "rock",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                            "primary": true
+                        },
+                        {
+                            "id": 477,
+                            "name": "Electronic",
+                            "slug": "electronic",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                            "primary": false
+                        },
+                        {
+                            "id": 976,
+                            "name": "Techno",
+                            "slug": "techno",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg",
+                            "primary": false
+                        }
+                    ],
+                    "popularity": 224.0,
+                    "location": null,
+                    "passes": [
+                        {
+                            "pass_type": "PARKING",
+                            "name": "One More Time - A Tribute to Daft Punk Parking",
+                            "url": "https://seatgeek.com/one-more-time-a-tribute-to-daft-punk-tickets/parking",
+                            "relative_url": "/one-more-time-a-tribute-to-daft-punk-tickets/parking",
+                            "stats": {
+                                "event_count": 1
+                            },
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/one-more-time-a-tribute-to-daft-punk-9ba503/98210/huge.jpg"
+                            },
+                            "image": "https://uploads-seatgeek.global.ssl.fastly.net/passes/parking-rebrand.png",
+                            "image_attribution": null,
+                            "image_license": null,
+                            "image_rights_message": ""
+                        }
+                    ],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/one-more-time-a-tribute-to-daft-punk-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#140918"
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 98210,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6847156489,
+            "relative_url": "/one-more-time-a-tribute-to-daft-punk-tickets/phoenix-arizona-the-van-buren-2025-11-28-8-pm/concert/17646956",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3481122481,
+            "short_title": "One More Time - A Tribute to Daft Punk (13+ Event)",
+            "stats": {
+                "listing_count": 44,
+                "ticket_count": 266,
+                "average_price": 49,
+                "lowest_price_good_deals": null,
+                "lowest_price": 12,
+                "highest_price": 109,
+                "visible_listing_count": 44,
+                "dq_bucket_counts": null,
+                "median_price": 55,
+                "lowest_sg_base_price": 8,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "seo_event_type": "concert",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "One More Time - A Tribute to Daft Punk (13+ Event)",
+            "url": "https://seatgeek.com/one-more-time-a-tribute-to-daft-punk-tickets/phoenix-arizona-the-van-buren-2025-11-28-8-pm/concert/17646956",
+            "venue": {
+                "id": 429111,
+                "name": "The Van Buren",
+                "name_v2": "The Van Buren",
+                "postal_code": "85003",
+                "timezone": "America/Phoenix",
+                "score": 0.73,
+                "popularity": 11530,
+                "address": "401 W Van Buren St",
+                "country": "US",
+                "city": "Phoenix",
+                "state": "AZ",
+                "slug": "the-van-buren",
+                "metro_code": 753,
+                "capacity": 1800,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "The Van Buren Parking",
+                        "url": "https://seatgeek.com/venues/the-van-buren/parking",
+                        "relative_url": "/venues/the-van-buren/parking",
+                        "stats": {
+                            "event_count": 47
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Phoenix, AZ 85003",
+                "display_location": "Phoenix, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4511,
+                    "lon": -112.079
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 61,
+                "url": "https://seatgeek.com/venues/the-van-buren/tickets",
+                "relative_url": "/venues/the-van-buren/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 9901,
+                "venue_id": 429111,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/9901?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": "v429111/configs/9901/9",
+                "seatingchart_url": "https://seatgeek.com/venues/the-van-buren/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "concert",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v429111-9901-9",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-11-13T13:32:47Z",
+            "visible_until_utc": "2025-11-29T04:30:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v429111-9901-9",
+                "retina_id": "v429111-9901-9.retina"
+            },
+            "type": "concert",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-07-09T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-07-09T18:15:42",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T11:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T18:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T19:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17615082,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-29T11:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T18:00:00Z",
+            "links": [
+                {
+                    "id": "3265503",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "Arizona State Sun Devils Womens Volleyball",
+                    "image": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-volleyball-e2289e/26849/huge.jpg",
+                    "id": 26849,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-volleyball-e2289e/26849/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-volleyball-e2289e/26849/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "official_logo": {
+                        "verified_provider_logo": "https://seatgeekimages.com/logos/yajozflyp/26849/verified_provider_logo/white_background/512x512.png",
+                        "verified_listing_logo": "https://seatgeekimages.com/logos/1mrmojoyq/26849/verified_listing_logo/white_background/512x512.png"
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "seo_event_type": "volleyball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "seo_event_type": "college-volleyball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "seo_event_type": "womens-college-volleyball",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/arizona-state-sun-devils-womens-volleyball-tickets",
+                    "score": 0.49,
+                    "slug": "arizona-state-sun-devils-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "Arizona State Womens VB",
+                    "num_upcoming_events": 2,
+                    "colors": {
+                        "all": [
+                            "#8C1D40",
+                            "#FFC627",
+                            "#8C1D40"
+                        ],
+                        "iconic": "#8C1D40",
+                        "primary": [
+                            "#8C1D40",
+                            "#FFC627"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 383.0,
+                    "home_team": true,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "verified_provider_message": "Official Ticket Marketplace",
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/arizona-state-sun-devils-womens-volleyball-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#040404"
+                },
+                {
+                    "type": "womens_college_volleyball",
+                    "name": "West Virginia Mountaineers Womens Volleyball",
+                    "image": "https://seatgeekimages.com/performers-landscape/west-virginia-mountaineers-womens-volleyball-1e8e2d/288731/huge.jpg",
+                    "id": 288731,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/west-virginia-mountaineers-womens-volleyball-1e8e2d/288731/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/west-virginia-mountaineers-womens-volleyball-1e8e2d/288731/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170000,
+                            "name": "volleyball",
+                            "parent_id": 1000000,
+                            "seo_event_type": "volleyball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170100,
+                            "name": "college_volleyball",
+                            "parent_id": 1170000,
+                            "seo_event_type": "college-volleyball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1170101,
+                            "name": "womens_college_volleyball",
+                            "parent_id": 1170100,
+                            "seo_event_type": "womens-college-volleyball",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022",
+                    "url": "https://seatgeek.com/west-virginia-mountaineers-womens-volleyball-tickets",
+                    "score": 0.36,
+                    "slug": "west-virginia-mountaineers-womens-volleyball",
+                    "home_venue_id": null,
+                    "short_name": "West Virginia Womens VB",
+                    "num_upcoming_events": 2,
+                    "colors": {
+                        "all": [
+                            "#002855",
+                            "#EAAA00",
+                            "#002855"
+                        ],
+                        "iconic": "#002855",
+                        "primary": [
+                            "#002855",
+                            "#EAAA00"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022",
+                    "popularity": 345.0,
+                    "away_team": true,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/west-virginia-mountaineers-womens-volleyball-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 26849,
+                    "ordinal": 0
+                },
+                {
+                    "id": 288731,
+                    "ordinal": 1
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6994669085,
+            "relative_url": "/arizona-state-sun-devils-womens-volleyball-tickets/womens-college-volleyball/2025-11-29-11-am/17615082",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3788863356,
+            "short_title": "West Virginia Mountaineers at Arizona State Sun Devils Womens Volleyball",
+            "stats": {
+                "listing_count": 8,
+                "ticket_count": 57,
+                "average_price": 33,
+                "lowest_price_good_deals": null,
+                "lowest_price": 32,
+                "highest_price": 38,
+                "visible_listing_count": 8,
+                "dq_bucket_counts": null,
+                "median_price": 31,
+                "lowest_sg_base_price": 22,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "seo_event_type": "sports",
+                    "rank": 0
+                },
+                {
+                    "id": 1170000,
+                    "name": "volleyball",
+                    "parent_id": 1000000,
+                    "seo_event_type": "volleyball",
+                    "rank": 0
+                },
+                {
+                    "id": 1170100,
+                    "name": "college_volleyball",
+                    "parent_id": 1170000,
+                    "seo_event_type": "college-volleyball",
+                    "rank": 0
+                },
+                {
+                    "id": 1170101,
+                    "name": "womens_college_volleyball",
+                    "parent_id": 1170100,
+                    "seo_event_type": "womens-college-volleyball",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "West Virginia Mountaineers at Arizona State Sun Devils Womens Volleyball",
+            "url": "https://seatgeek.com/arizona-state-sun-devils-womens-volleyball-tickets/womens-college-volleyball/2025-11-29-11-am/17615082",
+            "venue": {
+                "id": 5150,
+                "name": "Desert Financial Arena",
+                "name_v2": "Desert Financial Arena",
+                "postal_code": "85287",
+                "timezone": "America/Phoenix",
+                "score": 0.66,
+                "popularity": 4383,
+                "address": "600 E. Veterans Way",
+                "country": "US",
+                "city": "Tempe",
+                "state": "AZ",
+                "slug": "desert-financial-arena",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "Desert Financial Arena Parking",
+                        "url": "https://seatgeek.com/venues/desert-financial-arena/parking",
+                        "relative_url": "/venues/desert-financial-arena/parking",
+                        "stats": {
+                            "event_count": 12
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Tempe, AZ 85287",
+                "display_location": "Tempe, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4246,
+                    "lon": -111.931
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 36,
+                "url": "https://seatgeek.com/venues/desert-financial-arena/tickets",
+                "relative_url": "/venues/desert-financial-arena/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 31076,
+                "venue_id": 5150,
+                "is_mapped": false,
+                "data_path": null,
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "womens_college_volleyball",
+                "is_ga": true,
+                "version": null,
+                "map_config_key": "v5150-31076-0",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-09-06T08:40:23Z",
+            "visible_until_utc": "2025-11-29T19:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "general_admission": true,
+            "type": "womens_college_volleyball",
+            "is_hybrid": false,
+            "show_static_map_images": false,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-06-18T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-06-18T17:42:08",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T13:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T20:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T20:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17578555,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-29T13:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T20:00:00Z",
+            "links": [
+                {
+                    "id": "3380917",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "Rudolph The Red Nosed Reindeer - The Musical",
+                    "image": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/huge.jpg",
+                    "id": 253891,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 57
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "seo_event_type": "theater",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "Curation",
+                    "url": "https://seatgeek.com/rudolph-the-red-nosed-reindeer-the-musical-tickets",
+                    "score": 0.33,
+                    "slug": "rudolph-the-red-nosed-reindeer-the-musical",
+                    "home_venue_id": null,
+                    "short_name": "Rudolph The Red Nosed Reindeer - The Musical",
+                    "num_upcoming_events": 57,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 4438.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/rudolph-the-red-nosed-reindeer-the-musical-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#deb3e2"
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 253891,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6372263595,
+            "relative_url": "/rudolph-the-red-nosed-reindeer-the-musical-tickets/theater/2025-11-29-1-pm/17578555",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.2654944041,
+            "short_title": "Rudolph The Red Nosed Reindeer - The Musical - Phoenix",
+            "stats": {
+                "listing_count": 11,
+                "ticket_count": 50,
+                "average_price": 107,
+                "lowest_price_good_deals": null,
+                "lowest_price": 99,
+                "highest_price": 119,
+                "visible_listing_count": 11,
+                "dq_bucket_counts": null,
+                "median_price": 110,
+                "lowest_sg_base_price": 80,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "seo_event_type": "theater",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Rudolph The Red Nosed Reindeer - The Musical - Phoenix",
+            "url": "https://seatgeek.com/rudolph-the-red-nosed-reindeer-the-musical-tickets/theater/2025-11-29-1-pm/17578555",
+            "venue": {
+                "id": 4441,
+                "name": "Herberger Theater Center",
+                "name_v2": "Herberger Theater Center",
+                "postal_code": "85004",
+                "timezone": "America/Phoenix",
+                "score": 0.51,
+                "popularity": 941,
+                "address": "222 E. Monroe",
+                "country": "US",
+                "city": "Phoenix",
+                "state": "AZ",
+                "slug": "herberger-theater-center",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [],
+                "extended_address": "Phoenix, AZ 85004",
+                "display_location": "Phoenix, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4511,
+                    "lon": -112.071
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 47,
+                "url": "https://seatgeek.com/venues/herberger-theater-center/tickets",
+                "relative_url": "/venues/herberger-theater-center/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": null,
+                "venue_id": 4441,
+                "static_map": null,
+                "is_mapped": false,
+                "data_path": null,
+                "seatingchart_url": "https://seatgeek.com/venues/herberger-theater-center/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "theater",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": null,
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-10-07T09:52:17Z",
+            "visible_until_utc": "2025-11-29T20:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "type": "theater",
+            "is_hybrid": true,
+            "show_static_map_images": false,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-06-26T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-06-26T13:40:25",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T14:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T21:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T21:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17588965,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "UNSET",
+            "last_valid_datetime_local": "2025-11-29T14:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T21:00:00Z",
+            "links": [
+                {
+                    "id": "3403619",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                },
+                {
+                    "id": "190062D9D3A53B2E",
+                    "url": "",
+                    "provider": "ticketmaster",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "dance",
+                    "name": "Ballet Etudes",
+                    "image": "https://seatgeekimages.com/performers-landscape/ballet-etudes-38ba81/23330/huge.jpg",
+                    "id": 23330,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/ballet-etudes-38ba81/23330/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/ballet-etudes-38ba81/23330/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "seo_event_type": "theater",
+                            "rank": 0
+                        },
+                        {
+                            "id": 3060000,
+                            "name": "dance",
+                            "parent_id": 3000000,
+                            "seo_event_type": "dance",
+                            "rank": 0
+                        },
+                        {
+                            "id": 3060100,
+                            "name": "dance",
+                            "parent_id": 3060000,
+                            "seo_event_type": "dance",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "https://www.flickr.com/photos/clearlyambiguous/165316414/in/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv",
+                    "url": "https://seatgeek.com/ballet-etudes-tickets",
+                    "score": 0.38,
+                    "slug": "ballet-etudes",
+                    "home_venue_id": null,
+                    "short_name": "Ballet Etudes",
+                    "num_upcoming_events": 11,
+                    "colors": null,
+                    "image_license": "https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich",
+                    "popularity": 1282.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/ballet-etudes-tickets",
+                    "image_rights_message": "[This image](https://www.flickr.com/photos/clearlyambiguous/165316414/in/photolist-fBhP1-2fyE194-2jgvEoU-JzVGPG-Q2aHbz-JnWz1b-C2jCo3-GZbdUh-bAsu5f-2jFssLs-CELv4x-5gXsgm-CXFNZz-2jFsFLB-SbyUNM-buR5DT-buR4nr-buR5ox-4HjNSA-FQY8ob-27qqc6W-LDrLXM-C1N8fb-o2XcH-2dkZ5rS-2hNnBoD-2gJUDiQ-8pEh89-8qaD7E-2h7MDFB-2j9LoWJ-KWis9Q-26qNxaB-27Ua5Bp-2hFMv4w-EwYUrQ-J5UHZ4-2cpbeYB-33P2TD-86ixQ8-dYvvDe-86iyaR-86mBEQ-86mGF5-86iFjM-86mRCG-86mRnJ-2aw1Xx2-BKwaAM-27qzeHv) is available through [Creative Commons](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich) (@clearlyambiguous - Flickr). Email [images@seatgeek.com](mailto:images@seatgeek.com) with any questions.",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 23330,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6646114169,
+            "relative_url": "/ballet-etudes-tickets/dance/2025-11-29-2-pm/17588965",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3693011866,
+            "short_title": "Ballet Etudes - Chandler",
+            "stats": {
+                "listing_count": 253,
+                "ticket_count": 1389,
+                "average_price": 74,
+                "lowest_price_good_deals": null,
+                "lowest_price": 58,
+                "highest_price": 196,
+                "visible_listing_count": 253,
+                "dq_bucket_counts": null,
+                "median_price": 67,
+                "lowest_sg_base_price": 44,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "seo_event_type": "theater",
+                    "rank": 0
+                },
+                {
+                    "id": 3060000,
+                    "name": "dance",
+                    "parent_id": 3000000,
+                    "seo_event_type": "dance",
+                    "rank": 0
+                },
+                {
+                    "id": 3060100,
+                    "name": "dance",
+                    "parent_id": 3060000,
+                    "seo_event_type": "dance",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Ballet Etudes - Chandler",
+            "url": "https://seatgeek.com/ballet-etudes-tickets/dance/2025-11-29-2-pm/17588965",
+            "venue": {
+                "id": 1147,
+                "name": "Chandler Center for the Arts - AZ",
+                "name_v2": "Chandler Center for the Arts - AZ",
+                "postal_code": "85225",
+                "timezone": "America/Phoenix",
+                "score": 0.54,
+                "popularity": 1643,
+                "address": "250 North Arizona Avenue",
+                "country": "US",
+                "city": "Chandler",
+                "state": "AZ",
+                "slug": "chandler-center-for-the-arts-az",
+                "metro_code": 753,
+                "capacity": 1500,
+                "links": [],
+                "passes": [],
+                "extended_address": "Chandler, AZ 85225",
+                "display_location": "Chandler, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.3077,
+                    "lon": -111.842
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 38,
+                "url": "https://seatgeek.com/venues/chandler-center-for-the-arts-az/tickets",
+                "relative_url": "/venues/chandler-center-for-the-arts-az/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 29430,
+                "venue_id": 1147,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/29430?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": null,
+                "seatingchart_url": "https://seatgeek.com/venues/chandler-center-for-the-arts-az/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "dance",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v1147-29430-4",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-10-22T10:47:12Z",
+            "visible_until_utc": "2025-11-29T21:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v1147-29430-4",
+                "retina_id": "v1147-29430-4.retina"
+            },
+            "type": "dance",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-06-18T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-06-18T17:42:08",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T16:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-29T23:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-29T23:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17578556,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-29T16:00:00Z",
+            "last_valid_datetime_utc": "2025-11-29T23:00:00Z",
+            "links": [
+                {
+                    "id": "3380918",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "theater",
+                    "name": "Rudolph The Red Nosed Reindeer - The Musical",
+                    "image": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/huge.jpg",
+                    "id": 253891,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/rudolph-the-red-nosed-reindeer-the-musical-631f77/253891/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 57
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 3000000,
+                            "name": "theater",
+                            "parent_id": null,
+                            "seo_event_type": "theater",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "Curation",
+                    "url": "https://seatgeek.com/rudolph-the-red-nosed-reindeer-the-musical-tickets",
+                    "score": 0.33,
+                    "slug": "rudolph-the-red-nosed-reindeer-the-musical",
+                    "home_venue_id": null,
+                    "short_name": "Rudolph The Red Nosed Reindeer - The Musical",
+                    "num_upcoming_events": 57,
+                    "colors": null,
+                    "image_license": "rightsmanaged",
+                    "popularity": 4438.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/rudolph-the-red-nosed-reindeer-the-musical-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#deb3e2"
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 253891,
+                    "ordinal": 0
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.647496049,
+            "relative_url": "/rudolph-the-red-nosed-reindeer-the-musical-tickets/theater/2025-11-29-4-pm/17578556",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3084376486,
+            "short_title": "Rudolph The Red Nosed Reindeer - The Musical - Phoenix",
+            "stats": {
+                "listing_count": 9,
+                "ticket_count": 43,
+                "average_price": 110,
+                "lowest_price_good_deals": null,
+                "lowest_price": 100,
+                "highest_price": 119,
+                "visible_listing_count": 9,
+                "dq_bucket_counts": null,
+                "median_price": 110,
+                "lowest_sg_base_price": 80,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 3000000,
+                    "name": "theater",
+                    "parent_id": null,
+                    "seo_event_type": "theater",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Rudolph The Red Nosed Reindeer - The Musical - Phoenix",
+            "url": "https://seatgeek.com/rudolph-the-red-nosed-reindeer-the-musical-tickets/theater/2025-11-29-4-pm/17578556",
+            "venue": {
+                "id": 4441,
+                "name": "Herberger Theater Center",
+                "name_v2": "Herberger Theater Center",
+                "postal_code": "85004",
+                "timezone": "America/Phoenix",
+                "score": 0.51,
+                "popularity": 941,
+                "address": "222 E. Monroe",
+                "country": "US",
+                "city": "Phoenix",
+                "state": "AZ",
+                "slug": "herberger-theater-center",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [],
+                "extended_address": "Phoenix, AZ 85004",
+                "display_location": "Phoenix, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4511,
+                    "lon": -112.071
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 47,
+                "url": "https://seatgeek.com/venues/herberger-theater-center/tickets",
+                "relative_url": "/venues/herberger-theater-center/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": null,
+                "venue_id": 4441,
+                "static_map": null,
+                "is_mapped": false,
+                "data_path": null,
+                "seatingchart_url": "https://seatgeek.com/venues/herberger-theater-center/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "theater",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": null,
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-10-07T09:52:17Z",
+            "visible_until_utc": "2025-11-29T23:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "type": "theater",
+            "is_hybrid": true,
+            "show_static_map_images": false,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-07-22T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-07-22T13:18:18",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T17:00:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-30T00:00:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-30T01:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17637955,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "UNSET",
+            "last_valid_datetime_local": "2025-11-29T17:00:00Z",
+            "last_valid_datetime_utc": "2025-11-30T00:00:00Z",
+            "links": [
+                {
+                    "id": "3272353",
+                    "url": "",
+                    "provider": "rapidseats",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                },
+                {
+                    "id": "190062DE0ADB416A",
+                    "url": "",
+                    "provider": "ticketmaster",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "ncaa_hockey",
+                    "name": "Arizona State Sun Devils Mens Hockey",
+                    "image": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-mens-hockey-c48861/9852/huge.jpg",
+                    "id": 362283,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-mens-hockey-c48861/9852/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-mens-hockey-c48861/9852/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 27
+                    },
+                    "official_logo": {
+                        "verified_provider_logo": "https://seatgeekimages.com/logos/1zm3o817v/362283/verified_provider_logo/white_background/512x512.png",
+                        "verified_listing_logo": "https://seatgeekimages.com/logos/v6smws6mf/362283/verified_listing_logo/white_background/512x512.png"
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "seo_event_type": "hockey",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "seo_event_type": "ncaa-hockey",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2024",
+                    "url": "https://seatgeek.com/arizona-state-sun-devils-mens-hockey-tickets",
+                    "score": 0.49,
+                    "slug": "arizona-state-sun-devils-mens-hockey",
+                    "home_venue_id": null,
+                    "short_name": "Arizona State Sun Devils Mens Hockey",
+                    "num_upcoming_events": 27,
+                    "colors": {
+                        "all": [
+                            "#8C1D40",
+                            "#FFC627",
+                            "#8C1D40"
+                        ],
+                        "iconic": "#8C1D40",
+                        "primary": [
+                            "#8C1D40",
+                            "#FFC627"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2024",
+                    "popularity": 6058.0,
+                    "home_team": true,
+                    "location": null,
+                    "passes": [
+                        {
+                            "pass_type": "PARKING",
+                            "name": "Arizona State Sun Devils Mens Hockey Parking",
+                            "url": "https://seatgeek.com/arizona-state-sun-devils-mens-hockey-tickets/parking",
+                            "relative_url": "/arizona-state-sun-devils-mens-hockey-tickets/parking",
+                            "stats": {
+                                "event_count": 10
+                            },
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-mens-hockey-49a607/362283/huge.jpg"
+                            },
+                            "image": "https://uploads-seatgeek.global.ssl.fastly.net/passes/parking-rebrand.png",
+                            "image_attribution": "SeatGeek - 2024",
+                            "image_license": "SeatGeek - 2024",
+                            "image_rights_message": ""
+                        }
+                    ],
+                    "tracks": [],
+                    "verified_provider_message": "Official Ticket Marketplace",
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/arizona-state-sun-devils-mens-hockey-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                },
+                {
+                    "type": "ncaa_hockey",
+                    "name": "Ohio State Buckeyes Mens Hockey",
+                    "image": "https://seatgeekimages.com/performers-landscape/ohio-state-buckeyes-mens-hockey-c48861/9852/huge.jpg",
+                    "id": 9852,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/ohio-state-buckeyes-mens-hockey-c48861/9852/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/ohio-state-buckeyes-mens-hockey-c48861/9852/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 22
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1040000,
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "seo_event_type": "hockey",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1040200,
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "seo_event_type": "ncaa-hockey",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2024",
+                    "url": "https://seatgeek.com/ohio-state-buckeyes-mens-hockey-tickets",
+                    "score": 0.59,
+                    "slug": "ohio-state-buckeyes-mens-hockey",
+                    "home_venue_id": null,
+                    "short_name": "Ohio State Buckeyes Mens Hockey",
+                    "num_upcoming_events": 22,
+                    "colors": {
+                        "all": [
+                            "#CE0F3D",
+                            "#B2B7BC",
+                            "#CE0F3D"
+                        ],
+                        "iconic": "#CE0F3D",
+                        "primary": [
+                            "#CE0F3D",
+                            "#B2B7BC"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2024",
+                    "popularity": 10879.0,
+                    "away_team": true,
+                    "location": null,
+                    "passes": [
+                        {
+                            "pass_type": "PARKING",
+                            "name": "Ohio State Buckeyes Mens Hockey Parking",
+                            "url": "https://seatgeek.com/ohio-state-buckeyes-mens-hockey-tickets/parking",
+                            "relative_url": "/ohio-state-buckeyes-mens-hockey-tickets/parking",
+                            "stats": {
+                                "event_count": 11
+                            },
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/ohio-state-buckeyes-mens-hockey-c48861/9852/huge.jpg"
+                            },
+                            "image": "https://uploads-seatgeek.global.ssl.fastly.net/passes/parking-rebrand.png",
+                            "image_attribution": "SeatGeek - 2024",
+                            "image_license": "SeatGeek - 2024",
+                            "image_rights_message": ""
+                        }
+                    ],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/ohio-state-buckeyes-mens-hockey-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#060605"
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 362283,
+                    "ordinal": 0
+                },
+                {
+                    "id": 9852,
+                    "ordinal": 1
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.760079077,
+            "relative_url": "/arizona-state-sun-devils-mens-hockey-tickets/ncaa-hockey/2025-11-29-5-pm/17637955",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.5301935542,
+            "short_title": "Ohio State Buckeyes at Arizona State Sun Devils Mens Hockey",
+            "stats": {
+                "listing_count": 226,
+                "ticket_count": 532,
+                "average_price": 173,
+                "lowest_price_good_deals": null,
+                "lowest_price": 73,
+                "highest_price": 603,
+                "visible_listing_count": 226,
+                "dq_bucket_counts": null,
+                "median_price": 145,
+                "lowest_sg_base_price": 57,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "seo_event_type": "sports",
+                    "rank": 0
+                },
+                {
+                    "id": 1040000,
+                    "name": "hockey",
+                    "parent_id": 1000000,
+                    "seo_event_type": "hockey",
+                    "rank": 0
+                },
+                {
+                    "id": 1040200,
+                    "name": "ncaa_hockey",
+                    "parent_id": 1040000,
+                    "seo_event_type": "ncaa-hockey",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Ohio State Buckeyes at Arizona State Sun Devils Mens Hockey",
+            "url": "https://seatgeek.com/arizona-state-sun-devils-mens-hockey-tickets/ncaa-hockey/2025-11-29-5-pm/17637955",
+            "venue": {
+                "id": 520550,
+                "name": "Mullett Arena",
+                "name_v2": "Mullett Arena",
+                "postal_code": "85281",
+                "timezone": "America/Phoenix",
+                "score": 0.68,
+                "popularity": 5573,
+                "address": "411 S. Packard Dr.",
+                "country": "US",
+                "city": "Tempe",
+                "state": "AZ",
+                "slug": "mullett-arena",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "Mullett Arena Parking",
+                        "url": "https://seatgeek.com/venues/mullett-arena/parking",
+                        "relative_url": "/venues/mullett-arena/parking",
+                        "stats": {
+                            "event_count": 31
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Tempe, AZ 85281",
+                "display_location": "Tempe, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4254,
+                    "lon": -111.929
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 39,
+                "url": "https://seatgeek.com/venues/mullett-arena/tickets",
+                "relative_url": "/venues/mullett-arena/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 10935,
+                "venue_id": 520550,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/10935?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": "v520550/configs/10935/3",
+                "seatingchart_url": "https://seatgeek.com/venues/mullett-arena/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "ncaa_hockey",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v520550-10935-14",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-08-12T10:14:26Z",
+            "visible_until_utc": "2025-11-30T01:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v520550-10935-14",
+                "retina_id": "v520550-10935-14.retina"
+            },
+            "type": "ncaa_hockey",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-09-22T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-09-22T21:47:39",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T18:30:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-30T01:30:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-30T02:30:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17747325,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "VISIBLE",
+            "last_valid_datetime_local": "2025-11-29T18:30:00Z",
+            "last_valid_datetime_utc": "2025-11-30T01:30:00Z",
+            "links": [
+                {
+                    "id": "19006341BA742D03",
+                    "url": "",
+                    "provider": "ticketmaster",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "ncaa_womens_basketball",
+                    "name": "Arizona State Sun Devils Womens Basketball",
+                    "image": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-basketball-55ebe4/12050/huge.jpg",
+                    "id": 12050,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-basketball-55ebe4/12050/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-basketball-55ebe4/12050/banner.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030300,
+                            "short_name": "Pac-12",
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": "pac-12"
+                        },
+                        {
+                            "taxonomy_id": 1030300,
+                            "short_name": "Pac-12",
+                            "display_name": "Pac-12",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "pac-12"
+                        }
+                    ],
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 25
+                    },
+                    "official_logo": {
+                        "verified_provider_logo": "https://seatgeekimages.com/logos/guzh4nv59/12050/verified_provider_logo/white_background/512x512.png",
+                        "verified_listing_logo": "https://seatgeekimages.com/logos/jxjcxkle1/12050/verified_listing_logo/white_background/512x512.png"
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "seo_event_type": "basketball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1030300,
+                            "name": "ncaa_womens_basketball",
+                            "parent_id": 1030000,
+                            "seo_event_type": "ncaa-womens-basketball",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (Performer)",
+                    "url": "https://seatgeek.com/arizona-state-sun-devils-womens-basketball-tickets",
+                    "score": 0.38,
+                    "slug": "arizona-state-sun-devils-womens-basketball",
+                    "home_venue_id": 5150,
+                    "short_name": "Arizona State Womens BB",
+                    "num_upcoming_events": 25,
+                    "colors": {
+                        "all": [
+                            "#8C1D40",
+                            "#FFC627",
+                            "#8C1D40"
+                        ],
+                        "iconic": "#8C1D40",
+                        "primary": [
+                            "#8C1D40",
+                            "#FFC627"
+                        ]
+                    },
+                    "image_license": "SeatGeek - 2022 (Performer)",
+                    "popularity": 404.0,
+                    "location": null,
+                    "passes": [
+                        {
+                            "pass_type": "PARKING",
+                            "name": "Arizona State Sun Devils Womens Basketball Parking",
+                            "url": "https://seatgeek.com/arizona-state-sun-devils-womens-basketball-tickets/parking",
+                            "relative_url": "/arizona-state-sun-devils-womens-basketball-tickets/parking",
+                            "stats": {
+                                "event_count": 1
+                            },
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/arizona-state-sun-devils-womens-basketball-55ebe4/12050/huge.jpg"
+                            },
+                            "image": "https://uploads-seatgeek.global.ssl.fastly.net/passes/parking-rebrand.png",
+                            "image_attribution": "SeatGeek - 2022 (Performer)",
+                            "image_license": "SeatGeek - 2022 (Performer)",
+                            "image_rights_message": ""
+                        }
+                    ],
+                    "tracks": [],
+                    "verified_provider_message": "Official Ticket Marketplace",
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/arizona-state-sun-devils-womens-basketball-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": "#040404"
+                },
+                {
+                    "type": "ncaa_womens_basketball",
+                    "name": "Southeast Missouri State Redhawks Womens Basketball",
+                    "image": "https://seatgeekimages.com/performers-landscape/southeast-missouri-state-redhawks-womens-basketball-81f601/62374/huge.jpg",
+                    "id": 62374,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/southeast-missouri-state-redhawks-womens-basketball-81f601/62374/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/southeast-missouri-state-redhawks-womens-basketball-81f601/62374/banner.jpg"
+                    },
+                    "divisions": [
+                        {
+                            "taxonomy_id": 1030300,
+                            "short_name": "Ohio Valley",
+                            "display_name": "Division I",
+                            "display_type": "Division",
+                            "division_level": 1,
+                            "slug": "ohio-valley"
+                        },
+                        {
+                            "taxonomy_id": 1030300,
+                            "short_name": "Ohio Valley",
+                            "display_name": "Ohio Valley",
+                            "display_type": "Conference",
+                            "division_level": 2,
+                            "slug": "ohio-valley"
+                        }
+                    ],
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 23
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 1000000,
+                            "name": "sports",
+                            "parent_id": null,
+                            "seo_event_type": "sports",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1030000,
+                            "name": "basketball",
+                            "parent_id": 1000000,
+                            "seo_event_type": "basketball",
+                            "rank": 0
+                        },
+                        {
+                            "id": 1030300,
+                            "name": "ncaa_womens_basketball",
+                            "parent_id": 1030000,
+                            "seo_event_type": "ncaa-womens-basketball",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (Performer)",
+                    "url": "https://seatgeek.com/southeast-missouri-state-redhawks-womens-basketball-tickets",
+                    "score": 0.3,
+                    "slug": "southeast-missouri-state-redhawks-womens-basketball",
+                    "home_venue_id": 1574,
+                    "short_name": "Southeast Missouri State Womens BB",
+                    "num_upcoming_events": 23,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (Performer)",
+                    "popularity": 205.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/southeast-missouri-state-redhawks-womens-basketball-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 12050,
+                    "ordinal": 0
+                },
+                {
+                    "id": 62374,
+                    "ordinal": 1
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.6285395202,
+            "relative_url": "/arizona-state-sun-devils-womens-basketball-tickets/ncaa-womens-basketball/2025-11-29-6-30-pm/17747325",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.2891216668,
+            "short_title": "Southeast Missouri State Womens BB at Arizona State Womens BB",
+            "stats": {
+                "listing_count": 50,
+                "ticket_count": 246,
+                "average_price": 32,
+                "lowest_price_good_deals": null,
+                "lowest_price": 11,
+                "highest_price": 75,
+                "visible_listing_count": 50,
+                "dq_bucket_counts": null,
+                "median_price": 30,
+                "lowest_sg_base_price": 4,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 1000000,
+                    "name": "sports",
+                    "parent_id": null,
+                    "seo_event_type": "sports",
+                    "rank": 0
+                },
+                {
+                    "id": 1030000,
+                    "name": "basketball",
+                    "parent_id": 1000000,
+                    "seo_event_type": "basketball",
+                    "rank": 0
+                },
+                {
+                    "id": 1030300,
+                    "name": "ncaa_womens_basketball",
+                    "parent_id": 1030000,
+                    "seo_event_type": "ncaa-womens-basketball",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Thanksgiving Tournament MTE",
+            "url": "https://seatgeek.com/arizona-state-sun-devils-womens-basketball-tickets/ncaa-womens-basketball/2025-11-29-6-30-pm/17747325",
+            "venue": {
+                "id": 5150,
+                "name": "Desert Financial Arena",
+                "name_v2": "Desert Financial Arena",
+                "postal_code": "85287",
+                "timezone": "America/Phoenix",
+                "score": 0.66,
+                "popularity": 4383,
+                "address": "600 E. Veterans Way",
+                "country": "US",
+                "city": "Tempe",
+                "state": "AZ",
+                "slug": "desert-financial-arena",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "Desert Financial Arena Parking",
+                        "url": "https://seatgeek.com/venues/desert-financial-arena/parking",
+                        "relative_url": "/venues/desert-financial-arena/parking",
+                        "stats": {
+                            "event_count": 12
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Tempe, AZ 85287",
+                "display_location": "Tempe, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4246,
+                    "lon": -111.931
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 36,
+                "url": "https://seatgeek.com/venues/desert-financial-arena/tickets",
+                "relative_url": "/venues/desert-financial-arena/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 1330,
+                "venue_id": 5150,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/1330?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": "v5150/configs/1330/7",
+                "seatingchart_url": "https://seatgeek.com/venues/desert-financial-arena/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "ncaa_womens_basketball",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v5150-1330-7",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-11-01T10:20:42Z",
+            "visible_until_utc": "2025-11-30T02:30:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v5150-1330-7",
+                "retina_id": "v5150-1330-7.retina"
+            },
+            "type": "ncaa_womens_basketball",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        },
+        {
+            "access_method": null,
+            "announce_date": "2025-10-09T00:00:00",
+            "announcements": {},
+            "conditional": false,
+            "contingent": false,
+            "created_at": "2025-10-09T13:46:32",
+            "date_tbd": false,
+            "datetime_local": "2025-11-29T18:30:00",
+            "datetime_tbd": false,
+            "datetime_utc": "2025-11-30T01:30:00",
+            "description": "",
+            "onsale": null,
+            "display_config": {
+                "checkout_seat_numbers_required": false,
+                "event_page_all_in_pricing_default": true,
+                "global_all_in_pricing_default": true,
+                "itemization_required": false,
+                "listing_detail_all_in_pricing_default": true,
+                "order_fee_required_in_aip": true,
+                "primary_sale_taxes_required_in_aip": false,
+                "secondary_sale_taxes_required_in_aip": false,
+                "secondary_marketplace_banner_required": false,
+                "above_face_value_banner_required": false,
+                "secondary_marketplace_banner_emphasis_required": false
+            },
+            "enddatetime_utc": "2025-11-30T03:00:00",
+            "event_promotion": null,
+            "game_number": 0,
+            "home_game_number": 0,
+            "id": 17808547,
+            "integrated": null,
+            "is_open": false,
+            "is_visible": true,
+            "is_visible_override": "UNSET",
+            "last_valid_datetime_local": "2025-11-29T18:30:00Z",
+            "last_valid_datetime_utc": "2025-11-30T01:30:00Z",
+            "links": [
+                {
+                    "id": "19006338CDFE4032",
+                    "url": "",
+                    "provider": "ticketmaster",
+                    "primary": false,
+                    "display_name": "",
+                    "logos": {},
+                    "sales": [],
+                    "link_type": "ID"
+                }
+            ],
+            "main_event_id": null,
+            "mobile_entry_enabled": false,
+            "performers": [
+                {
+                    "type": "band",
+                    "name": "Mouse Powell",
+                    "image": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg",
+                    "id": 38905,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "primary": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concert",
+                            "parent_id": null,
+                            "seo_event_type": "concert",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/mouse-powell-tickets",
+                    "score": 0.29,
+                    "slug": "mouse-powell",
+                    "home_venue_id": null,
+                    "short_name": "Mouse Powell",
+                    "num_upcoming_events": 1,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "genres": [
+                        {
+                            "id": 491,
+                            "name": "Hip-hop",
+                            "slug": "hip-hop",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg",
+                            "primary": true
+                        },
+                        {
+                            "id": 493,
+                            "name": "Rap",
+                            "slug": "rap",
+                            "images": {
+                                "huge": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg"
+                            },
+                            "image": "https://seatgeekimages.com/performers-landscape/mouse-powell-fa61de/38905/huge.jpg",
+                            "primary": false
+                        }
+                    ],
+                    "popularity": 209.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/mouse-powell-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                },
+                {
+                    "type": "band",
+                    "name": "LAS CALAKAS",
+                    "image": "https://seatgeekimages.com/performers-landscape/las-calakas-c43ef1/694128/huge.jpg",
+                    "id": 694128,
+                    "images": {
+                        "huge": "https://seatgeekimages.com/performers-landscape/las-calakas-c43ef1/694128/huge.jpg",
+                        "banner": "https://seatgeekimages.com/performers-landscape/las-calakas-c43ef1/694128/banner.jpg"
+                    },
+                    "divisions": null,
+                    "links": [],
+                    "has_upcoming_events": true,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "taxonomies": [
+                        {
+                            "id": 2000000,
+                            "name": "concert",
+                            "parent_id": null,
+                            "seo_event_type": "concert",
+                            "rank": 0
+                        }
+                    ],
+                    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+                    "url": "https://seatgeek.com/las-calakas-tickets",
+                    "score": 0.33,
+                    "slug": "las-calakas",
+                    "home_venue_id": null,
+                    "short_name": "LAS CALAKAS",
+                    "num_upcoming_events": 1,
+                    "colors": null,
+                    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+                    "popularity": 209.0,
+                    "location": null,
+                    "passes": [],
+                    "tracks": [],
+                    "performer_header_style_type": "PERFORMER_IMAGE",
+                    "relative_url": "/las-calakas-tickets",
+                    "image_rights_message": "",
+                    "is_event": false,
+                    "ada_dominant_image_color": null
+                }
+            ],
+            "performer_order": [
+                {
+                    "id": 38905,
+                    "ordinal": 0
+                },
+                {
+                    "id": 694128,
+                    "ordinal": 1
+                }
+            ],
+            "playoffs": null,
+            "popularity": 0.666975434,
+            "relative_url": "/mouse-powell-tickets/tempe-arizona-marquee-theatre-tempe-az-2025-11-29-6-30-pm/concert/17808547",
+            "schedule_status": "as_originally_scheduled",
+            "score": 0.3665322173,
+            "short_title": "Mouse Powell with LAS CALAKAS (21+)",
+            "stats": {
+                "listing_count": 9,
+                "ticket_count": 65,
+                "average_price": 164,
+                "lowest_price_good_deals": null,
+                "lowest_price": 32,
+                "highest_price": 1113,
+                "visible_listing_count": 9,
+                "dq_bucket_counts": null,
+                "median_price": 50,
+                "lowest_sg_base_price": 25,
+                "lowest_sg_base_price_good_deals": 0
+            },
+            "status": "normal",
+            "taxonomies": [
+                {
+                    "id": 2000000,
+                    "name": "concert",
+                    "parent_id": null,
+                    "seo_event_type": "concert",
+                    "rank": 0
+                }
+            ],
+            "ticketmaster": null,
+            "tdc_pv_id": 0,
+            "tdc_pvo_id": 0,
+            "time_tbd": false,
+            "title": "Mouse Powell with LAS CALAKAS (21+)",
+            "url": "https://seatgeek.com/mouse-powell-tickets/tempe-arizona-marquee-theatre-tempe-az-2025-11-29-6-30-pm/concert/17808547",
+            "venue": {
+                "id": 753,
+                "name": "Marquee Theatre - Tempe, AZ",
+                "name_v2": "Marquee Theatre - Tempe, AZ",
+                "postal_code": "85281",
+                "timezone": "America/Phoenix",
+                "score": 0.65,
+                "popularity": 2243,
+                "address": "730 North Mill Avenue",
+                "country": "US",
+                "city": "Tempe",
+                "state": "AZ",
+                "slug": "marquee-theatre-tempe-az",
+                "metro_code": 753,
+                "capacity": 0,
+                "links": [],
+                "passes": [
+                    {
+                        "pass_type": "PARKING",
+                        "name": "Marquee Theatre - Tempe, AZ Parking",
+                        "url": "https://seatgeek.com/venues/marquee-theatre-tempe-az/parking",
+                        "relative_url": "/venues/marquee-theatre-tempe-az/parking",
+                        "stats": {
+                            "event_count": 12
+                        },
+                        "image_rights_message": ""
+                    }
+                ],
+                "extended_address": "Tempe, AZ 85281",
+                "display_location": "Tempe, AZ",
+                "access_method": null,
+                "location": {
+                    "lat": 33.4369,
+                    "lon": -111.944
+                },
+                "has_upcoming_events": true,
+                "num_upcoming_events": 35,
+                "url": "https://seatgeek.com/venues/marquee-theatre-tempe-az/tickets",
+                "relative_url": "/venues/marquee-theatre-tempe-az/tickets",
+                "marquee_city": null,
+                "sg_market_area": 18
+            },
+            "venue_config": {
+                "map_config_id": 8355,
+                "venue_id": 753,
+                "static_map": "https://static-maps.seatgeek.com/map_configs/8355?width=512&height=512&hide_labels=1",
+                "is_mapped": true,
+                "data_path": "v753/configs/8355/4",
+                "seatingchart_url": "https://seatgeek.com/venues/marquee-theatre-tempe-az/tickets",
+                "svg_key": null,
+                "config_id": 0,
+                "event_type": "concert",
+                "is_ga": false,
+                "version": null,
+                "map_config_key": "v753-8355-11",
+                "seat_selection_enabled": false,
+                "has_seatview": false,
+                "is_zone_map": false
+            },
+            "visible_at": "2025-11-16T10:06:18Z",
+            "visible_until_utc": "2025-11-30T03:00:00",
+            "open_domain_id": "",
+            "open_id": "",
+            "map": {
+                "id": "v753-8355-11",
+                "retina_id": "v753-8355-11.retina"
+            },
+            "type": "concert",
+            "is_hybrid": true,
+            "show_static_map_images": true,
+            "all_in_price_before_checkout": true,
+            "all_in_price_on_event_page": true,
+            "themes": [],
+            "domain_information": []
+        }
+    ],
+    "meta": {
+        "geolocation": {
+            "lat": 33.435505062124,
+            "lon": -112.06298828125,
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "US",
+            "postal_code": "85076",
+            "display_name": "Phoenix, AZ",
+            "metro_code": "753",
+            "sg_market_area_id": "18",
+            "range": "34mi"
+        },
+        "total": 1660,
+        "took": 0,
+        "page": 2,
+        "per_page": 10
+    }
+}
