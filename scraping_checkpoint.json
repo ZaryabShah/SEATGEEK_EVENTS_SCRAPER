@@ -1,0 +1,16 @@
+{
+    "completed_cities": [
+        "arlington",
+        "atlanta",
+        "austin",
+        "baltimore",
+        "boston",
+        "charlotte",
+        "chicago",
+        "cincinnati",
+        "cleveland"
+    ],
+    "current_city": null,
+    "current_page": 1,
+    "last_updated": "2025-11-27 23:31:20"
+}
